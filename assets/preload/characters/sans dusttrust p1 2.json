@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-188,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sword idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dusttrust_Assets1",
+	"position": [
+		-240,
+		70
+	],
+	"healthicon": "p1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		240,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

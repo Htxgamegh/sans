@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ph 2 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ph 2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ph 2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ph 2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ph 2 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				26
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				110
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase_2",
+	"position": [
+		60,
+		100
+	],
+	"healthicon": "p2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

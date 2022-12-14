@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				21,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				128,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				54,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				240,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				100,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sword to mic",
+			"indices": [],
+			"name": "sword to mic"
+		},
+		{
+			"offsets": [
+				60,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blocked",
+			"indices": [],
+			"name": "blocked"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dusttrust_Assets1",
+	"position": [
+		50,
+		70
+	],
+	"healthicon": "p1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dusttrust_Assets1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blocked0000" x="0" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0001" x="751" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0002" x="751" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0003" x="1502" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0004" x="1502" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0005" x="2253" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0006" x="2253" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0007" x="3004" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0008" x="3004" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0009" x="3755" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0010" x="3755" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0011" x="3755" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0012" x="3755" y="0" width="751" height="783"/>
+	<SubTexture name="blocked0013" x="3755" y="0" width="751" height="783"/>
+	<SubTexture name="down0000" x="4506" y="0" width="835" height="783"/>
+	<SubTexture name="down0001" x="4506" y="0" width="835" height="783"/>
+	<SubTexture name="down0002" x="5341" y="0" width="835" height="783"/>
+	<SubTexture name="down0003" x="5341" y="0" width="835" height="783"/>
+	<SubTexture name="down0004" x="6176" y="0" width="835" height="783"/>
+	<SubTexture name="down0005" x="6176" y="0" width="835" height="783"/>
+	<SubTexture name="down0006" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="down0007" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="down0008" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="down0009" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="down0010" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="down0011" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="down0012" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="down0013" x="7011" y="0" width="835" height="783"/>
+	<SubTexture name="idle0000" x="0" y="783" width="751" height="783"/>
+	<SubTexture name="idle0001" x="0" y="783" width="751" height="783"/>
+	<SubTexture name="idle0002" x="751" y="783" width="751" height="783"/>
+	<SubTexture name="idle0003" x="751" y="783" width="751" height="783"/>
+	<SubTexture name="idle0004" x="1502" y="783" width="751" height="783"/>
+	<SubTexture name="idle0005" x="1502" y="783" width="751" height="783"/>
+	<SubTexture name="idle0006" x="2253" y="783" width="751" height="783"/>
+	<SubTexture name="idle0007" x="3004" y="783" width="751" height="783"/>
+	<SubTexture name="idle0008" x="3004" y="783" width="751" height="783"/>
+	<SubTexture name="idle0009" x="3755" y="783" width="751" height="783"/>
+	<SubTexture name="idle0010" x="3755" y="783" width="751" height="783"/>
+	<SubTexture name="idle0011" x="4506" y="783" width="751" height="783"/>
+	<SubTexture name="idle0012" x="4506" y="783" width="751" height="783"/>
+	<SubTexture name="idle0013" x="5257" y="783" width="751" height="783"/>
+	<SubTexture name="idle0014" x="5257" y="783" width="751" height="783"/>
+	<SubTexture name="left0000" x="6008" y="783" width="751" height="783"/>
+	<SubTexture name="left0001" x="6008" y="783" width="751" height="783"/>
+	<SubTexture name="left0002" x="6759" y="783" width="751" height="783"/>
+	<SubTexture name="left0003" x="6759" y="783" width="751" height="783"/>
+	<SubTexture name="left0004" x="0" y="1566" width="751" height="783"/>
+	<SubTexture name="left0005" x="0" y="1566" width="751" height="783"/>
+	<SubTexture name="left0006" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="left0007" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="left0008" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="left0009" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="left0010" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="left0011" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="left0012" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="left0013" x="751" y="1566" width="751" height="783"/>
+	<SubTexture name="right0000" x="1502" y="1566" width="937" height="783"/>
+	<SubTexture name="right0001" x="1502" y="1566" width="937" height="783"/>
+	<SubTexture name="right0002" x="2439" y="1566" width="937" height="783"/>
+	<SubTexture name="right0003" x="2439" y="1566" width="937" height="783"/>
+	<SubTexture name="right0004" x="3376" y="1566" width="937" height="783"/>
+	<SubTexture name="right0005" x="3376" y="1566" width="937" height="783"/>
+	<SubTexture name="right0006" x="4313" y="1566" width="937" height="783"/>
+	<SubTexture name="right0007" x="4313" y="1566" width="937" height="783"/>
+	<SubTexture name="right0008" x="5250" y="1566" width="937" height="783"/>
+	<SubTexture name="right0009" x="5250" y="1566" width="937" height="783"/>
+	<SubTexture name="right0010" x="5250" y="1566" width="937" height="783"/>
+	<SubTexture name="right0011" x="5250" y="1566" width="937" height="783"/>
+	<SubTexture name="right0012" x="5250" y="1566" width="937" height="783"/>
+	<SubTexture name="right0013" x="5250" y="1566" width="937" height="783"/>
+	<SubTexture name="sword idle0000" x="6187" y="1566" width="869" height="783"/>
+	<SubTexture name="sword idle0001" x="6187" y="1566" width="869" height="783"/>
+	<SubTexture name="sword idle0002" x="7056" y="1566" width="869" height="783"/>
+	<SubTexture name="sword idle0003" x="7056" y="1566" width="869" height="783"/>
+	<SubTexture name="sword idle0004" x="0" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0005" x="0" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0006" x="869" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0007" x="1738" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0008" x="1738" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0009" x="2607" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0010" x="2607" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0011" x="3476" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0012" x="3476" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0013" x="4345" y="2349" width="869" height="783"/>
+	<SubTexture name="sword idle0014" x="4345" y="2349" width="869" height="783"/>
+	<SubTexture name="sword to mic0000" x="5214" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0001" x="5214" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0002" x="5214" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0003" x="5214" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0004" x="5214" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0005" x="5214" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0006" x="5214" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0007" x="6171" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0008" x="6171" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0009" x="7128" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0010" x="7128" y="2349" width="957" height="862"/>
+	<SubTexture name="sword to mic0011" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0012" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0013" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0014" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0015" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0016" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0017" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0018" x="0" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0019" x="957" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0020" x="957" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0021" x="1914" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0022" x="2871" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0023" x="3828" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0024" x="4785" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0025" x="5742" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0026" x="6699" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0027" x="0" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0028" x="957" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0029" x="1914" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0030" x="2871" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0031" x="3828" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0032" x="4785" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0033" x="5742" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0034" x="6699" y="4073" width="957" height="862"/>
+	<SubTexture name="sword to mic0035" x="0" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0036" x="957" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0037" x="1914" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0038" x="2871" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0039" x="3828" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0040" x="4785" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0041" x="5742" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0042" x="6699" y="4935" width="957" height="862"/>
+	<SubTexture name="sword to mic0043" x="0" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0044" x="957" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0045" x="1914" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0046" x="2871" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0047" x="3828" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0048" x="3828" y="3211" width="957" height="862"/>
+	<SubTexture name="sword to mic0049" x="4785" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0050" x="5742" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0051" x="6699" y="5797" width="957" height="862"/>
+	<SubTexture name="sword to mic0052" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0053" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0054" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0055" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0056" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0057" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0058" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0059" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0060" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0061" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0062" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0063" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="sword to mic0064" x="0" y="6659" width="957" height="862"/>
+	<SubTexture name="up0000" x="957" y="6659" width="751" height="783"/>
+	<SubTexture name="up0001" x="957" y="6659" width="751" height="783"/>
+	<SubTexture name="up0002" x="1708" y="6659" width="751" height="783"/>
+	<SubTexture name="up0003" x="1708" y="6659" width="751" height="783"/>
+	<SubTexture name="up0004" x="2459" y="6659" width="751" height="783"/>
+	<SubTexture name="up0005" x="2459" y="6659" width="751" height="783"/>
+	<SubTexture name="up0006" x="3210" y="6659" width="751" height="783"/>
+	<SubTexture name="up0007" x="3210" y="6659" width="751" height="783"/>
+	<SubTexture name="up0008" x="3961" y="6659" width="751" height="783"/>
+	<SubTexture name="up0009" x="3961" y="6659" width="751" height="783"/>
+	<SubTexture name="up0010" x="3961" y="6659" width="751" height="783"/>
+	<SubTexture name="up0011" x="3961" y="6659" width="751" height="783"/>
+	<SubTexture name="up0012" x="3961" y="6659" width="751" height="783"/>
+	<SubTexture name="up0013" x="3961" y="6659" width="751" height="783"/>
+</TextureAtlas>

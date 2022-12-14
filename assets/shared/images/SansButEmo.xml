@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SansButEmo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="20000" x="0" y="0" width="747" height="788"/>
+	<SubTexture name="20001" x="0" y="0" width="747" height="788"/>
+	<SubTexture name="20002" x="747" y="0" width="747" height="788"/>
+	<SubTexture name="20003" x="747" y="0" width="747" height="788"/>
+	<SubTexture name="20004" x="1494" y="0" width="747" height="788"/>
+	<SubTexture name="20005" x="1494" y="0" width="747" height="788"/>
+	<SubTexture name="20006" x="2241" y="0" width="747" height="788"/>
+	<SubTexture name="20007" x="2241" y="0" width="747" height="788"/>
+	<SubTexture name="20008" x="2988" y="0" width="747" height="788"/>
+	<SubTexture name="20009" x="2988" y="0" width="747" height="788"/>
+	<SubTexture name="20010" x="2988" y="0" width="747" height="788"/>
+	<SubTexture name="20011" x="2988" y="0" width="747" height="788"/>
+	<SubTexture name="20012" x="2988" y="0" width="747" height="788"/>
+	<SubTexture name="20013" x="2988" y="0" width="747" height="788"/>
+	<SubTexture name="flasheye0000" x="0" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0001" x="0" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0002" x="753" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0003" x="753" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0004" x="1506" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0005" x="1506" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0006" x="2259" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0007" x="2259" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0008" x="3012" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0009" x="3012" y="788" width="753" height="793"/>
+	<SubTexture name="flasheye0010" x="0" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0011" x="0" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0012" x="753" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0013" x="753" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0014" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0015" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0016" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0017" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0018" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0019" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0020" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0021" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0022" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0023" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0024" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0025" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0026" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0027" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0028" x="1506" y="1581" width="753" height="793"/>
+	<SubTexture name="flasheye0029" x="1506" y="1581" width="753" height="793"/>
+</TextureAtlas>
